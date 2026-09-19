@@ -15,7 +15,7 @@ This project features a fully functional single-cycle RISC-V processor that fetc
 - **J-Type / U-Type**: Jump and upper immediate operations (`jal`, `lui`)
 
 ## Circuit Architecture
-![RISC-V Datapath Schematic](images/riscv_datapath.png)
+![RISC-V Datapath Schematic](riscv_design_image.png)
 
 ### Key Modules
 - **32-Bit ALU**: Implements arithmetic, logical bitwise operations, and flags.
